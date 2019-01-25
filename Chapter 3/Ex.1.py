@@ -20,6 +20,6 @@ elif fairy_tail == 4:
     print("Alweys look on the bright side of life ! :) ")
 
 elif fairy_tail == 5:
-    print(" You discover some new invention !")
+    print(" Never look back, go straigt with your chest bump up !")
 
 input("\n\nAby zakończyć program nacisnij Enter:")
